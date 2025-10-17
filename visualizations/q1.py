@@ -16,6 +16,38 @@ input_file = "datasets/netflix_titles.csv"
 print("Lendo o arquivo...")
 data = pd.read_csv(input_file)
 
+# Função corrigida para computar os países associados a cada ator
+def compute_actor_countries(data):
+    """
+    Computa os países dos filmes em que cada ator trabalhou e determina o grupo.
+
+    Args:
+        data (DataFrame): DataFrame contendo as colunas 'cast' e 'country'.
+
+    Returns:
+        dict: Um dicionário onde as chaves são os nomes dos atores e os valores são os grupos.
+    """
+    actor_countries = defaultdict(set)
+
+    # Para cada linha do DataFrame
+    for _, row in data.iterrows():
+        if pd.notna(row['cast']) and pd.notna(row['country']):
+            countries = row['country'].split(', ')
+            for actor in row['cast'].split(', '):
+                actor_countries[actor].update(countries)
+
+    # Determina o grupo de cada ator
+    actor_groups = {}
+    for actor, countries in actor_countries.items():
+        if len(countries) == 1:
+            actor_groups[actor] = list(countries)[0]  # Único país
+        elif len(countries) > 1:
+            actor_groups[actor] = "Internacional"  # Mais de um país
+        else:
+            actor_groups[actor] = "S/P"  # Sem país
+
+    return actor_groups
+
 # Extração e limpeza dos atores
 print("Extraindo e limpando os dados da coluna 'cast'...")
 actors = defaultdict(int)
@@ -72,11 +104,16 @@ with open(links_file, 'w') as f:
     for (source, target), count in interactions.items():
         f.write(f"{source},{target},{count}\n")
 
-# Cria o arquivo points.csv
+# Certifica-se de que actor_groups é definido corretamente antes de ser usado
+actor_countries = compute_actor_countries(data)
+
+# Atualiza o arquivo points.csv com os grupos corretos
+print("Atualizando o arquivo points.csv com os grupos dos atores...")
 with open(points_file, 'w') as f:
     f.write("Actor,Group,Movies_Count\n")
     for actor, count in top_actors:
-        f.write(f"{actor},0,{count}\n")
+        group = actor_countries.get(actor, "S/P")  # Default para "S/P" se o ator não tiver dados
+        f.write(f"{actor},{group},{count}\n")
 
 # Resumo e validação
 print("\nResumo do processamento:")
