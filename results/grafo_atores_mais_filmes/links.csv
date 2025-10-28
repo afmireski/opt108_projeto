@@ -1,0 +1,442 @@
+Source,Target,Value
+Adam Sandler,Chris Rock,2
+Adam Sandler,David Spade,4
+Adam Sandler,Maya Rudolph,3
+Chris Rock,David Spade,1
+Chris Rock,Maya Rudolph,2
+David Spade,Maya Rudolph,1
+Fred Tatasciore,Grey Griffin,2
+Daisuke Ono,Miyuki Sawashiro,4
+Erin Fitzgerald,Fred Tatasciore,4
+Junichi Suwabe,Yuichi Nakamura,5
+Junichi Suwabe,Mamoru Miyano,6
+Daisuke Ono,Junichi Suwabe,8
+Jun Fukuyama,Junichi Suwabe,3
+Mamoru Miyano,Yuichi Nakamura,4
+Daisuke Ono,Yuichi Nakamura,6
+Jun Fukuyama,Yuichi Nakamura,4
+Daisuke Ono,Mamoru Miyano,8
+Jun Fukuyama,Mamoru Miyano,6
+Daisuke Ono,Jun Fukuyama,5
+Grey Griffin,Kari Wahlgren,2
+Shah Rukh Khan,Tinnu Anand,5
+Daisuke Ono,Yoshimasa Hosoya,5
+Junichi Suwabe,Yoshimasa Hosoya,2
+Hiroshi Kamiya,Yoshimasa Hosoya,4
+Daisuke Ono,Hiroshi Kamiya,6
+Hiroshi Kamiya,Junichi Suwabe,2
+Chris Rock,Laurence Fishburne,1
+Anupam Kher,Rajpal Yadav,4
+Anupam Kher,Sanjay Mishra,2
+Rajpal Yadav,Sanjay Mishra,2
+Manoj Joshi,Sanjay Dutt,1
+Amitabh Bachchan,Sanjay Dutt,2
+Naseeruddin Shah,Rajesh Sharma,1
+Takehito Koyasu,Yuichi Nakamura,2
+Ai Kayano,Takehito Koyasu,3
+Brian Drummond,Kathleen Barr,3
+Amitabh Bachchan,Vijay Raaz,1
+Sanjay Dutt,Vijay Raaz,1
+Alfred Molina,Fred Tatasciore,1
+David Spade,Fortune Feimster,11
+Ashleigh Ball,Tara Strong,8
+Andrea Libman,Ashleigh Ball,12
+Andrea Libman,Tara Strong,8
+Diana Kaarina,Sam Vincent,1
+Jun Fukuyama,Yuki Kaji,6
+Mamoru Miyano,Yuki Kaji,9
+Kay Kay Menon,Manoj Bajpayee,1
+Manoj Bajpayee,Rajesh Sharma,2
+Kay Kay Menon,Rajesh Sharma,1
+Miyuki Sawashiro,Takahiro Sakurai,2
+Junichi Suwabe,Miyuki Sawashiro,3
+Junichi Suwabe,Takahiro Sakurai,9
+Yoshimasa Hosoya,Yuki Kaji,5
+Hiroshi Kamiya,Yuki Kaji,5
+Daisuke Ono,Yuki Kaji,12
+Takehito Koyasu,Yuki Kaji,3
+Takehito Koyasu,Yoshimasa Hosoya,1
+Hiroshi Kamiya,Takehito Koyasu,1
+Daisuke Ono,Takehito Koyasu,3
+Andrea Libman,Vincent Tong,11
+Alessandro Juliani,Vincent Tong,14
+Erin Mathews,Vincent Tong,9
+Diana Kaarina,Vincent Tong,13
+Alessandro Juliani,Andrea Libman,12
+Andrea Libman,Erin Mathews,10
+Andrea Libman,Diana Kaarina,12
+Alessandro Juliani,Erin Mathews,8
+Alessandro Juliani,Diana Kaarina,12
+Diana Kaarina,Erin Mathews,7
+Daisuke Ono,Tomokazu Sugita,7
+Takehito Koyasu,Tomokazu Sugita,2
+Tomokazu Sugita,Yuki Kaji,7
+Takahiro Sakurai,Tomokazu Sugita,9
+Tomokazu Sugita,Yuichi Nakamura,4
+Junichi Suwabe,Tomokazu Sugita,6
+Daisuke Ono,Takahiro Sakurai,9
+Takahiro Sakurai,Takehito Koyasu,5
+Junichi Suwabe,Takehito Koyasu,1
+Takahiro Sakurai,Yuki Kaji,13
+Yuichi Nakamura,Yuki Kaji,5
+Junichi Suwabe,Yuki Kaji,5
+Takahiro Sakurai,Yuichi Nakamura,6
+David Spade,Mike Epps,1
+Fortune Feimster,Mike Epps,1
+Fred Armisen,Maya Rudolph,4
+Aamir Khan,Yashpal Sharma,1
+Naseeruddin Shah,Nawazuddin Siddiqui,1
+Mamoru Miyano,Miyuki Sawashiro,3
+Kana Hanazawa,Miyuki Sawashiro,3
+Hiroshi Kamiya,Miyuki Sawashiro,2
+Jun Fukuyama,Miyuki Sawashiro,2
+Miyuki Sawashiro,Yuichi Nakamura,4
+Miyuki Sawashiro,Yuki Kaji,2
+Kari Wahlgren,Miyuki Sawashiro,1
+Kana Hanazawa,Mamoru Miyano,6
+Hiroshi Kamiya,Mamoru Miyano,2
+Kari Wahlgren,Mamoru Miyano,1
+Hiroshi Kamiya,Kana Hanazawa,3
+Daisuke Ono,Kana Hanazawa,6
+Jun Fukuyama,Kana Hanazawa,2
+Kana Hanazawa,Yuichi Nakamura,3
+Kana Hanazawa,Yuki Kaji,7
+Kana Hanazawa,Kari Wahlgren,1
+Hiroshi Kamiya,Jun Fukuyama,2
+Hiroshi Kamiya,Yuichi Nakamura,2
+Hiroshi Kamiya,Kari Wahlgren,1
+Daisuke Ono,Kari Wahlgren,1
+Jun Fukuyama,Kari Wahlgren,1
+Kari Wahlgren,Yuichi Nakamura,1
+Kari Wahlgren,Yuki Kaji,1
+Aamir Khan,Kareena Kapoor,2
+Aamir Khan,Boman Irani,2
+Boman Irani,Kareena Kapoor,3
+Boman Irani,Paresh Rawal,3
+Laura Bailey,Tara Strong,1
+Akshay Kumar,Paresh Rawal,7
+Ajay Devgn,Yashpal Sharma,2
+Boman Irani,Priyanka Chopra,4
+Priyanka Chopra,Sanjay Mishra,1
+Priyanka Chopra,Tinnu Anand,1
+Boman Irani,Sanjay Mishra,3
+Boman Irani,Tinnu Anand,2
+Sanjay Mishra,Tinnu Anand,2
+Kareena Kapoor,Salman Khan,2
+Asrani,Salman Khan,1
+Asrani,Kareena Kapoor,1
+Amitabh Bachchan,Nawazuddin Siddiqui,2
+Boman Irani,Yashpal Sharma,1
+Sam Vincent,Vincent Tong,2
+Brian Drummond,Vincent Tong,4
+Brian Drummond,Keith David,1
+Aamir Khan,Anupam Kher,2
+Akshay Kumar,Manoj Joshi,3
+Akshay Kumar,Rajpal Yadav,5
+Manoj Joshi,Paresh Rawal,4
+Paresh Rawal,Rajpal Yadav,4
+Manoj Joshi,Rajpal Yadav,3
+Ai Kayano,Takahiro Sakurai,6
+Jun Fukuyama,Takahiro Sakurai,5
+Ai Kayano,Junichi Suwabe,3
+Ai Kayano,Yuichi Nakamura,2
+Ai Kayano,Jun Fukuyama,1
+Naseeruddin Shah,Vijay Raaz,2
+Ajay Devgn,Kareena Kapoor,3
+Aamir Khan,Anil Kapoor,2
+Akshay Kumar,Anil Kapoor,3
+Akshay Kumar,Asrani,4
+Anil Kapoor,Paresh Rawal,1
+Anil Kapoor,Asrani,1
+Asrani,Paresh Rawal,5
+Boman Irani,Vijay Raaz,1
+Tinnu Anand,Vijay Raaz,1
+Sanjay Mishra,Vijay Raaz,2
+Debi Derryberry,Erin Fitzgerald,7
+Ai Kayano,Kana Hanazawa,4
+Nawazuddin Siddiqui,Radhika Apte,2
+Naseeruddin Shah,Paresh Rawal,1
+Akshay Kumar,Kareena Kapoor,3
+Akshay Kumar,Om Puri,2
+Om Puri,Paresh Rawal,3
+Akshay Kumar,Manoj Bajpayee,3
+Akshay Kumar,Anupam Kher,5
+Akshay Kumar,Rajesh Sharma,1
+Anupam Kher,Manoj Bajpayee,4
+Anupam Kher,Rajesh Sharma,2
+Anupam Kher,Salman Khan,5
+Salman Khan,Sanjay Mishra,1
+Manoj Joshi,Salman Khan,2
+Anupam Kher,Manoj Joshi,2
+Manoj Joshi,Sanjay Mishra,1
+Om Puri,Rajpal Yadav,3
+Aamir Khan,Salman Khan,1
+Aamir Khan,Paresh Rawal,1
+Paresh Rawal,Salman Khan,2
+Ashleigh Ball,Diana Kaarina,2
+Junichi Suwabe,Kana Hanazawa,6
+Kana Hanazawa,Takahiro Sakurai,9
+Amitabh Bachchan,Tinnu Anand,2
+Akshay Kumar,Jackie Shroff,2
+Gulshan Grover,Shah Rukh Khan,2
+Amitabh Bachchan,Amrish Puri,2
+Anupam Kher,Kareena Kapoor,1
+Anupam Kher,Sanjay Dutt,3
+Amitabh Bachchan,Shah Rukh Khan,3
+Amitabh Bachchan,Kareena Kapoor,3
+Kareena Kapoor,Shah Rukh Khan,3
+Saif Ali Khan,Shah Rukh Khan,1
+Salman Khan,Shah Rukh Khan,1
+Anupam Kher,Shah Rukh Khan,4
+Rajesh Sharma,Salman Khan,1
+Kana Hanazawa,Yoshimasa Hosoya,3
+Takahiro Sakurai,Yoshimasa Hosoya,5
+Ai Kayano,Yoshimasa Hosoya,3
+Tomokazu Sugita,Yoshimasa Hosoya,3
+Kana Hanazawa,Tomokazu Sugita,6
+Ai Kayano,Tomokazu Sugita,4
+Keith David,Mike Epps,1
+Ai Kayano,Miyuki Sawashiro,2
+Saif Ali Khan,Salman Khan,2
+Laura Bailey,Mamoru Miyano,2
+Boman Irani,Manoj Joshi,1
+Brian Drummond,Kate Higgins,1
+Ai Kayano,Hiroshi Kamiya,2
+Ai Kayano,Daisuke Ono,3
+Ai Kayano,Yuki Kaji,1
+Mamoru Miyano,Takahiro Sakurai,9
+Hiroshi Kamiya,Takahiro Sakurai,1
+Aamir Khan,Saif Ali Khan,1
+Anil Kapoor,Priyanka Chopra,1
+Aamir Khan,Priyanka Chopra,1
+Priyanka Chopra,Shah Rukh Khan,2
+Boman Irani,Shah Rukh Khan,5
+Om Puri,Shah Rukh Khan,3
+Kareena Kapoor,Priyanka Chopra,2
+Om Puri,Priyanka Chopra,2
+Kareena Kapoor,Om Puri,4
+Boman Irani,Om Puri,2
+Anupam Kher,Boman Irani,2
+Boman Irani,Kay Kay Menon,1
+Amitabh Bachchan,Om Puri,2
+Aamir Khan,Nawazuddin Siddiqui,1
+Kareena Kapoor,Nawazuddin Siddiqui,1
+Jackie Shroff,Tinnu Anand,2
+Kathleen Barr,Vincent Tong,11
+Erin Mathews,Kathleen Barr,5
+Brian Drummond,Erin Mathews,5
+Andrea Libman,Kathleen Barr,7
+Andrea Libman,Brian Drummond,4
+Alessandro Juliani,Kathleen Barr,9
+Alessandro Juliani,Brian Drummond,2
+Diana Kaarina,Kathleen Barr,7
+Brian Drummond,Diana Kaarina,2
+Boman Irani,Pankaj Tripathi,2
+Yoshimasa Hosoya,Yuichi Nakamura,1
+Ashleigh Ball,Vincent Tong,3
+Ashleigh Ball,Kathleen Barr,2
+Ashleigh Ball,Brian Drummond,6
+David Spade,Tara Strong,1
+Nawazuddin Siddiqui,Saif Ali Khan,1
+Radhika Apte,Saif Ali Khan,2
+Grey Griffin,Tara Strong,1
+Kari Wahlgren,Tara Strong,2
+Ashleigh Ball,Erin Mathews,6
+Miyuki Sawashiro,Tomokazu Sugita,2
+Andrea Libman,Sam Vincent,5
+Gulshan Grover,Kay Kay Menon,1
+Kay Kay Menon,Yashpal Sharma,1
+Asrani,Vijay Raaz,1
+Kareena Kapoor,Yashpal Sharma,1
+Fred Tatasciore,Laura Bailey,3
+Mamoru Miyano,Tomokazu Sugita,4
+Jun Fukuyama,Tomokazu Sugita,2
+Jackie Shroff,Kay Kay Menon,2
+Asrani,Kay Kay Menon,1
+Asrani,Jackie Shroff,2
+Sanjay Mishra,Yashpal Sharma,3
+Sam Vincent,Tara Strong,2
+Ashleigh Ball,Sam Vincent,4
+Kareena Kapoor,Paresh Rawal,2
+Kareena Kapoor,Rajpal Yadav,1
+Ajay Devgn,Paresh Rawal,2
+Kay Kay Menon,Paresh Rawal,2
+Kareena Kapoor,Manoj Bajpayee,2
+Ajay Devgn,Amitabh Bachchan,2
+Amitabh Bachchan,Manoj Bajpayee,3
+Ajay Devgn,Manoj Bajpayee,3
+Anupam Kher,Tinnu Anand,2
+Gulshan Grover,Yashpal Sharma,1
+Kareena Kapoor,Saif Ali Khan,1
+Om Puri,Saif Ali Khan,1
+Kay Kay Menon,Rajpal Yadav,1
+Naseeruddin Shah,Rajpal Yadav,1
+Kay Kay Menon,Naseeruddin Shah,1
+Anil Kapoor,Saif Ali Khan,2
+Aamir Khan,Sanjay Dutt,1
+Boman Irani,Sanjay Dutt,1
+Akshay Kumar,Radhika Apte,1
+Naseeruddin Shah,Priyanka Chopra,1
+Akshay Kumar,Sanjay Mishra,1
+Asrani,Sanjay Mishra,1
+Ajay Devgn,Naseeruddin Shah,1
+Manoj Bajpayee,Naseeruddin Shah,2
+Aamir Khan,Om Puri,1
+Anupam Kher,Om Puri,1
+Akshay Kumar,Yashpal Sharma,1
+Om Puri,Tinnu Anand,3
+Gulshan Grover,Sanjay Dutt,1
+Anupam Kher,Naseeruddin Shah,3
+Alessandro Juliani,Sam Vincent,2
+Kathleen Barr,Sam Vincent,1
+Rajpal Yadav,Shah Rukh Khan,2
+Asrani,Shah Rukh Khan,1
+Manoj Joshi,Shah Rukh Khan,1
+Asrani,Rajpal Yadav,3
+Asrani,Om Puri,1
+Manoj Joshi,Om Puri,1
+Asrani,Manoj Joshi,2
+Naseeruddin Shah,Shah Rukh Khan,4
+Boman Irani,Naseeruddin Shah,1
+Amitabh Bachchan,Anupam Kher,2
+Amitabh Bachchan,Rajpal Yadav,1
+Paresh Rawal,Shah Rukh Khan,2
+Grey Griffin,Keith David,1
+Ajay Devgn,Om Puri,1
+Ajay Devgn,Vijay Raaz,2
+Kareena Kapoor,Vijay Raaz,1
+Om Puri,Vijay Raaz,1
+Gulshan Grover,Naseeruddin Shah,2
+Amrish Puri,Naseeruddin Shah,2
+Amrish Puri,Gulshan Grover,2
+Debi Derryberry,Kate Higgins,9
+David Spade,Fred Armisen,1
+Ajay Devgn,Sanjay Mishra,1
+Gulshan Grover,Jackie Shroff,3
+Gulshan Grover,Saif Ali Khan,1
+Erin Mathews,Sam Vincent,3
+Brian Drummond,Sam Vincent,4
+Amrish Puri,Shah Rukh Khan,2
+Amrish Puri,Anupam Kher,1
+Amrish Puri,Tinnu Anand,2
+Nawazuddin Siddiqui,Shah Rukh Khan,1
+Naseeruddin Shah,Tinnu Anand,1
+Gulshan Grover,Tinnu Anand,1
+Jackie Shroff,Shah Rukh Khan,2
+Sanjay Mishra,Shah Rukh Khan,1
+Pankaj Tripathi,Shah Rukh Khan,1
+Pankaj Tripathi,Sanjay Mishra,2
+Mamoru Miyano,Yoshimasa Hosoya,1
+Jun Fukuyama,Yoshimasa Hosoya,1
+Alessandro Juliani,Mamoru Miyano,1
+Mamoru Miyano,Sam Vincent,1
+Brian Drummond,Mamoru Miyano,1
+Junichi Suwabe,Laura Bailey,1
+Jun Fukuyama,Laura Bailey,1
+Kate Higgins,Laura Bailey,10
+Debi Derryberry,Laura Bailey,6
+Adam Sandler,Danny Trejo,1
+Danny Trejo,David Spade,1
+Jackie Shroff,Naseeruddin Shah,1
+Alfred Molina,Willem Dafoe,1
+Anupam Kher,Willem Dafoe,1
+Alfred Molina,Anupam Kher,1
+Amitabh Bachchan,Saif Ali Khan,1
+Amitabh Bachchan,Yashpal Sharma,1
+Manoj Bajpayee,Saif Ali Khan,1
+Saif Ali Khan,Yashpal Sharma,1
+Manoj Bajpayee,Yashpal Sharma,1
+Bruce Willis,Mike Epps,1
+Tinnu Anand,Yashpal Sharma,1
+Akshay Kumar,Priyanka Chopra,2
+Akshay Kumar,Amrish Puri,2
+Amrish Puri,Kareena Kapoor,3
+Amrish Puri,Priyanka Chopra,2
+Paresh Rawal,Priyanka Chopra,1
+Amrish Puri,Paresh Rawal,1
+Laurence Fishburne,Michael Peña,1
+Rajpal Yadav,Yashpal Sharma,1
+Rajpal Yadav,Vijay Raaz,3
+Vijay Raaz,Yashpal Sharma,1
+Diana Kaarina,Kate Higgins,1
+Anil Kapoor,Kareena Kapoor,1
+Anil Kapoor,Manoj Bajpayee,2
+Jackie Shroff,Paresh Rawal,1
+Jackie Shroff,Rajpal Yadav,1
+Amitabh Bachchan,Gulshan Grover,1
+Amitabh Bachchan,Jackie Shroff,2
+Amitabh Bachchan,Boman Irani,1
+Boman Irani,Gulshan Grover,1
+Boman Irani,Jackie Shroff,1
+Salman Khan,Sanjay Dutt,1
+Manoj Bajpayee,Nawazuddin Siddiqui,1
+Amitabh Bachchan,Asrani,1
+Pankaj Tripathi,Rajesh Sharma,1
+Ajay Devgn,Rajpal Yadav,1
+Boman Irani,Rajpal Yadav,1
+Boman Irani,Saif Ali Khan,1
+Rajpal Yadav,Saif Ali Khan,1
+Chris Rock,Keith David,1
+Asrani,Sanjay Dutt,2
+Nicolas Cage,Willem Dafoe,1
+Molly Shannon,Morgan Freeman,1
+Amrish Puri,Om Puri,3
+Anil Kapoor,Anupam Kher,2
+Paresh Rawal,Sanjay Dutt,1
+Anupam Kher,Paresh Rawal,1
+Anupam Kher,Asrani,1
+Adam Sandler,Molly Shannon,1
+David Spade,Molly Shannon,1
+Fred Tatasciore,Kari Wahlgren,1
+Anil Kapoor,Manoj Joshi,1
+Ajay Devgn,Akshay Kumar,1
+Akshay Kumar,Salman Khan,2
+Asrani,Gulshan Grover,1
+Jackie Shroff,Sanjay Dutt,2
+Anupam Kher,Jackie Shroff,2
+Anupam Kher,Saif Ali Khan,1
+Amitabh Bachchan,Anil Kapoor,1
+Ajay Devgn,Anil Kapoor,2
+Ajay Devgn,Jackie Shroff,1
+Ajay Devgn,Anupam Kher,1
+Anil Kapoor,Jackie Shroff,2
+Jackie Shroff,Manoj Bajpayee,1
+Rajpal Yadav,Salman Khan,2
+Naseeruddin Shah,Om Puri,1
+Erin Fitzgerald,Kate Higgins,10
+Erin Fitzgerald,Laura Bailey,9
+Amrish Puri,Rajpal Yadav,1
+Priyanka Chopra,Rajpal Yadav,1
+Amrish Puri,Salman Khan,1
+Priyanka Chopra,Salman Khan,1
+Diana Kaarina,Tara Strong,1
+Anil Kapoor,Salman Khan,1
+Anil Kapoor,Boman Irani,2
+Boman Irani,Salman Khan,1
+Akshay Kumar,Tinnu Anand,1
+Kay Kay Menon,Pankaj Tripathi,1
+Jackie Shroff,Pankaj Tripathi,1
+Om Puri,Sanjay Dutt,1
+Jackie Shroff,Om Puri,1
+Keith David,Willem Dafoe,1
+Anil Kapoor,Om Puri,1
+Bruce Willis,Samuel L. Jackson,1
+Ben Kingsley,Laurence Fishburne,1
+Shah Rukh Khan,Vijay Raaz,1
+Amrish Puri,Anil Kapoor,1
+Amitabh Bachchan,Ben Kingsley,1
+Ajay Devgn,Boman Irani,1
+Fred Armisen,Molly Shannon,1
+Fred Tatasciore,Keith David,1
+Anil Kapoor,Shah Rukh Khan,1
+Anil Kapoor,Tinnu Anand,1
+Maya Rudolph,Samuel L. Jackson,1
+Maya Rudolph,Michael Peña,1
+Michael Peña,Samuel L. Jackson,1
+Gulshan Grover,Om Puri,1
+Michael Peña,Nicolas Cage,1
+Danny Trejo,Samuel L. Jackson,1
+Samuel L. Jackson,Willem Dafoe,1
+Anupam Kher,Vijay Raaz,1
+Jackie Shroff,Kareena Kapoor,1
+Amrish Puri,Jackie Shroff,1
