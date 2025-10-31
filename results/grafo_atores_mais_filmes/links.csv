@@ -5,7 +5,18 @@ Adam Sandler,Maya Rudolph,3
 Chris Rock,David Spade,1
 Chris Rock,Maya Rudolph,2
 David Spade,Maya Rudolph,1
+Julie Tejwani,Vatsal Dubey,18
+Rupa Bhimani,Vatsal Dubey,18
+Jigna Bhardwaj,Vatsal Dubey,18
+Rajesh Kava,Vatsal Dubey,17
+Julie Tejwani,Rupa Bhimani,31
+Jigna Bhardwaj,Julie Tejwani,21
+Julie Tejwani,Rajesh Kava,24
+Jigna Bhardwaj,Rupa Bhimani,20
+Rajesh Kava,Rupa Bhimani,22
+Jigna Bhardwaj,Rajesh Kava,20
 Fred Tatasciore,Grey Griffin,2
+Blossom Chukwujekwu,Richard Mofe-Damijo,1
 Daisuke Ono,Miyuki Sawashiro,4
 Erin Fitzgerald,Fred Tatasciore,4
 Junichi Suwabe,Yuichi Nakamura,5
@@ -26,6 +37,7 @@ Hiroshi Kamiya,Yoshimasa Hosoya,4
 Daisuke Ono,Hiroshi Kamiya,6
 Hiroshi Kamiya,Junichi Suwabe,2
 Chris Rock,Laurence Fishburne,1
+James Franco,Seth Rogen,3
 Anupam Kher,Rajpal Yadav,4
 Anupam Kher,Sanjay Mishra,2
 Rajpal Yadav,Sanjay Mishra,2
@@ -37,8 +49,12 @@ Ai Kayano,Takehito Koyasu,3
 Brian Drummond,Kathleen Barr,3
 Amitabh Bachchan,Vijay Raaz,1
 Sanjay Dutt,Vijay Raaz,1
+Rupa Bhimani,Sonal Kaushal,7
+Julie Tejwani,Sonal Kaushal,8
+Rajesh Kava,Sonal Kaushal,3
 Alfred Molina,Fred Tatasciore,1
 David Spade,Fortune Feimster,11
+Blossom Chukwujekwu,Toyin Abraham,2
 Ashleigh Ball,Tara Strong,8
 Andrea Libman,Ashleigh Ball,12
 Andrea Libman,Tara Strong,8
@@ -152,6 +168,7 @@ Asrani,Paresh Rawal,5
 Boman Irani,Vijay Raaz,1
 Tinnu Anand,Vijay Raaz,1
 Sanjay Mishra,Vijay Raaz,2
+Jigna Bhardwaj,Sonal Kaushal,2
 Debi Derryberry,Erin Fitzgerald,7
 Ai Kayano,Kana Hanazawa,4
 Nawazuddin Siddiqui,Radhika Apte,2
@@ -174,6 +191,7 @@ Aamir Khan,Salman Khan,1
 Aamir Khan,Paresh Rawal,1
 Paresh Rawal,Salman Khan,2
 Ashleigh Ball,Diana Kaarina,2
+James Franco,John Cleese,1
 Junichi Suwabe,Kana Hanazawa,6
 Kana Hanazawa,Takahiro Sakurai,9
 Amitabh Bachchan,Tinnu Anand,2
@@ -250,6 +268,7 @@ Asrani,Vijay Raaz,1
 Kareena Kapoor,Yashpal Sharma,1
 Fred Tatasciore,Laura Bailey,3
 Mamoru Miyano,Tomokazu Sugita,4
+John Cleese,Michael Palin,14
 Jun Fukuyama,Tomokazu Sugita,2
 Jackie Shroff,Kay Kay Menon,2
 Asrani,Kay Kay Menon,1
