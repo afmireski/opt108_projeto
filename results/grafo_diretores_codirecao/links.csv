@@ -1,0 +1,124 @@
+Source,Target,Value
+Chris Buck,Jennifer Lee,1
+Chris Buck,Patrick Osborne,1
+Chris Buck,Lauren MacMullan,1
+Chris Buck,John Kahrs,1
+Chris Buck,Nathan Greno,1
+Byron Howard,Chris Buck,1
+Chris Buck,Stevie Wermers,1
+Chris Buck,Dean Wellins,1
+Chris Buck,Kevin Deters,1
+Chris Buck,Roger Allers,1
+Chris Buck,Mike Gabriel,1
+Chris Buck,Mark Henn,1
+Jennifer Lee,Patrick Osborne,1
+Jennifer Lee,Lauren MacMullan,1
+Jennifer Lee,John Kahrs,1
+Jennifer Lee,Nathan Greno,1
+Byron Howard,Jennifer Lee,1
+Jennifer Lee,Stevie Wermers,1
+Dean Wellins,Jennifer Lee,1
+Jennifer Lee,Kevin Deters,1
+Jennifer Lee,Roger Allers,1
+Jennifer Lee,Mike Gabriel,1
+Jennifer Lee,Mark Henn,1
+Lauren MacMullan,Patrick Osborne,1
+John Kahrs,Patrick Osborne,1
+Nathan Greno,Patrick Osborne,1
+Byron Howard,Patrick Osborne,1
+Patrick Osborne,Stevie Wermers,1
+Dean Wellins,Patrick Osborne,1
+Kevin Deters,Patrick Osborne,1
+Patrick Osborne,Roger Allers,1
+Mike Gabriel,Patrick Osborne,1
+Mark Henn,Patrick Osborne,1
+John Kahrs,Lauren MacMullan,1
+Lauren MacMullan,Nathan Greno,1
+Byron Howard,Lauren MacMullan,1
+Lauren MacMullan,Stevie Wermers,1
+Dean Wellins,Lauren MacMullan,1
+Kevin Deters,Lauren MacMullan,1
+Lauren MacMullan,Roger Allers,1
+Lauren MacMullan,Mike Gabriel,1
+Lauren MacMullan,Mark Henn,1
+John Kahrs,Nathan Greno,1
+Byron Howard,John Kahrs,1
+John Kahrs,Stevie Wermers,1
+Dean Wellins,John Kahrs,1
+John Kahrs,Kevin Deters,1
+John Kahrs,Roger Allers,1
+John Kahrs,Mike Gabriel,1
+John Kahrs,Mark Henn,1
+Byron Howard,Nathan Greno,1
+Nathan Greno,Stevie Wermers,1
+Dean Wellins,Nathan Greno,1
+Kevin Deters,Nathan Greno,1
+Nathan Greno,Roger Allers,1
+Mike Gabriel,Nathan Greno,1
+Mark Henn,Nathan Greno,1
+Byron Howard,Stevie Wermers,1
+Byron Howard,Dean Wellins,1
+Byron Howard,Kevin Deters,1
+Byron Howard,Roger Allers,1
+Byron Howard,Mike Gabriel,1
+Byron Howard,Mark Henn,1
+Dean Wellins,Stevie Wermers,1
+Kevin Deters,Stevie Wermers,1
+Roger Allers,Stevie Wermers,1
+Mike Gabriel,Stevie Wermers,1
+Mark Henn,Stevie Wermers,1
+Dean Wellins,Kevin Deters,1
+Dean Wellins,Roger Allers,1
+Dean Wellins,Mike Gabriel,1
+Dean Wellins,Mark Henn,1
+Kevin Deters,Roger Allers,1
+Kevin Deters,Mike Gabriel,1
+Kevin Deters,Mark Henn,1
+Mike Gabriel,Roger Allers,1
+Mark Henn,Roger Allers,1
+Mark Henn,Mike Gabriel,1
+Gaëtan Brizzi,Roger Allers,1
+Paul Brizzi,Roger Allers,1
+Joan C. Gratz,Roger Allers,1
+Mohammed Saeed Harib,Roger Allers,1
+Roger Allers,Tomm Moore,1
+Nina Paley,Roger Allers,1
+Bill Plympton,Roger Allers,1
+Joann Sfar,Roger Allers,1
+Michael Socha,Roger Allers,1
+Gaëtan Brizzi,Paul Brizzi,1
+Gaëtan Brizzi,Joan C. Gratz,1
+Gaëtan Brizzi,Mohammed Saeed Harib,1
+Gaëtan Brizzi,Tomm Moore,1
+Gaëtan Brizzi,Nina Paley,1
+Bill Plympton,Gaëtan Brizzi,1
+Gaëtan Brizzi,Joann Sfar,1
+Gaëtan Brizzi,Michael Socha,1
+Joan C. Gratz,Paul Brizzi,1
+Mohammed Saeed Harib,Paul Brizzi,1
+Paul Brizzi,Tomm Moore,1
+Nina Paley,Paul Brizzi,1
+Bill Plympton,Paul Brizzi,1
+Joann Sfar,Paul Brizzi,1
+Michael Socha,Paul Brizzi,1
+Joan C. Gratz,Mohammed Saeed Harib,1
+Joan C. Gratz,Tomm Moore,1
+Joan C. Gratz,Nina Paley,1
+Bill Plympton,Joan C. Gratz,1
+Joan C. Gratz,Joann Sfar,1
+Joan C. Gratz,Michael Socha,1
+Mohammed Saeed Harib,Tomm Moore,1
+Mohammed Saeed Harib,Nina Paley,1
+Bill Plympton,Mohammed Saeed Harib,1
+Joann Sfar,Mohammed Saeed Harib,1
+Michael Socha,Mohammed Saeed Harib,1
+Nina Paley,Tomm Moore,1
+Bill Plympton,Tomm Moore,1
+Joann Sfar,Tomm Moore,1
+Michael Socha,Tomm Moore,1
+Bill Plympton,Nina Paley,1
+Joann Sfar,Nina Paley,1
+Michael Socha,Nina Paley,1
+Bill Plympton,Joann Sfar,1
+Bill Plympton,Michael Socha,1
+Joann Sfar,Michael Socha,1
