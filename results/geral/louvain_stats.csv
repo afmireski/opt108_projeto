@@ -1,2 +1,2 @@
 resolution,seed,modularity,num_communities,nodes_analyzed,edges_analyzed,min_community_size,max_community_size,mean_community_size,median_community_size
-1.0,42,0.7994863797345485,978,36439,289207,1,6438,37.258691206543965,3.0
+1.0,42,0.8016050743216728,986,36439,289207,1,6339,36.95638945233266,3.0
