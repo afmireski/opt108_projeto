@@ -14,6 +14,18 @@ Repositório destinado a armazenar o projeto da disciplina de Análise de Redes 
 # Visualização
 ## Rede 1)
 
+### Atores com mais conexões - Peso: Centralidade de Grau
+https://public.flourish.studio/visualisation/25881903/
+
+### Atores com mais conexões - Peso: Centralidade de Intermediação
+https://public.flourish.studio/visualisation/26481736/
+
+### Atores com mais filmes - Peso: N° de Filmes
+https://public.flourish.studio/visualisation/25904438/
+
+### Atores com mais conexões - Peso: Centralidade de Intermediação
+https://public.flourish.studio/visualisation/26481940/
+
 ## Rede 2)
 ### Atores
 https://public.flourish.studio/visualisation/26100675/
