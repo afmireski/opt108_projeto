@@ -1,23 +1,22 @@
 # opt108_projeto
-Repositório destinado a armazenar os scripts que processarão os dados para o projeto da disciplina de Análise de Redes Sociais utilizando Grafos.
+Repositório destinado a armazenar o projeto da disciplina de Análise de Redes Sociais utilizando Grafos.
 
-## Perguntas Preliminares
+# Perguntas
 
+## Rede 1)
 ### Quais os artistas, com mais filmes, que mais trabalharam juntos?
+### Quais são os artistas que mais trabalharam com outros artistas?
 
-- Top 100 geral
-- Um outro filtrando por EUA e Brasil
+## Rede 2)
+### Quais artistas são mais influentes dentro de determinados gêneros?
+### Quais diretores são mais influentes dentro de determinados gêneros?
 
-### Quais os diretores, com mais filmes, que mais trabalharam juntos?
+# Visualização
+## Rede 1)
 
-### Quais artistas são mais influentes em dados gêneros?
+## Rede 2)
+### Atores
+https://public.flourish.studio/visualisation/26100675/
+### Diretores
+https://public.flourish.studio/visualisation/26100979/
 
-### Quais diretores são mais influentes em dados gêneros?
-
-### *Quais artistas mais trabalharam com certos diretores?
-
-- Bônus
-
-### *Quais períodos concentram mais produções?
-
-- Bônus
