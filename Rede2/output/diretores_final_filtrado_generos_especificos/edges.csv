@@ -1,0 +1,132 @@
+source,target
+Priyadarshan,Comedies
+Priyadarshan,Dramas
+Priyadarshan,International Movies
+Priyadarshan,Romantic Movies
+Priyadarshan,Action & Adventure
+Jeremy Saulnier,Action & Adventure
+Jeremy Saulnier,Dramas
+Jeremy Saulnier,Horror Movies
+Jeremy Saulnier,Comedies
+Jeremy Saulnier,Cult Movies
+Lilly Wachowski,Action & Adventure
+Lilly Wachowski,Cult Movies
+Lilly Wachowski,Dramas
+Lilly Wachowski,Sci-Fi & Fantasy
+Navaniat Singh,Dramas
+Navaniat Singh,International Movies
+Navaniat Singh,Romantic Movies
+Navaniat Singh,Action & Adventure
+Navaniat Singh,Comedies
+Guillermo del Toro,Horror Movies
+Guillermo del Toro,Romantic Movies
+Guillermo del Toro,Sci-Fi & Fantasy
+Guillermo del Toro,Dramas
+Guillermo del Toro,International Movies
+Guillermo del Toro,Action & Adventure
+Guillermo del Toro,Cult Movies
+Don Michael Paul,Action & Adventure
+Don Michael Paul,Dramas
+Don Michael Paul,Horror Movies
+Don Michael Paul,Comedies
+Don Michael Paul,Sci-Fi & Fantasy
+Cult Movies,Tim Burton
+Cult Movies,Bong Joon Ho
+Cult Movies,Brian De Palma
+Cult Movies,Kevin Smith
+Cult Movies,Terry Gilliam
+Cult Movies,Quentin Tarantino
+Cult Movies,Ivan Reitman
+Cult Movies,Sam Raimi
+Sergio Leone,Classic Movies
+Sergio Leone,Dramas
+Sergio Leone,Action & Adventure
+Sergio Leone,International Movies
+Dramas,Steven Spielberg
+Dramas,Clint Eastwood
+Dramas,Quentin Tarantino
+Dramas,Youssef Chahine
+Dramas,Paul Weitz
+Dramas,Peter Chelsom
+Dramas,Ashutosh Gowariker
+Dramas,Ron Howard
+Dramas,Mike Newell
+Dramas,Bong Joon Ho
+Dramas,Kevin Smith
+Dramas,Terry Gilliam
+Dramas,Nicolás López
+Dramas,Tim Burton
+Dramas,Peyton Reed
+Bong Joon Ho,Action & Adventure
+Bong Joon Ho,International Movies
+Bong Joon Ho,Comedies
+Action & Adventure,Steven Spielberg
+Action & Adventure,Renny Harlin
+Action & Adventure,Clint Eastwood
+Action & Adventure,Quentin Tarantino
+Action & Adventure,McG
+Action & Adventure,Ron Howard
+Action & Adventure,Youssef Chahine
+Action & Adventure,Terry Gilliam
+Action & Adventure,Ashutosh Gowariker
+Action & Adventure,Nicolás López
+Action & Adventure,Peyton Reed
+Action & Adventure,Paul Weitz
+Action & Adventure,Sam Raimi
+Action & Adventure,Peter Chelsom
+Horror Movies,Renny Harlin
+Horror Movies,McG
+Horror Movies,Nicolás López
+Horror Movies,Brian De Palma
+Horror Movies,Paul Weitz
+Horror Movies,Kevin Smith
+Horror Movies,Tim Burton
+Horror Movies,Sam Raimi
+Ron Howard,International Movies
+Ron Howard,Comedies
+Ron Howard,Sci-Fi & Fantasy
+Ivan Reitman,Comedies
+Ivan Reitman,Romantic Movies
+Ivan Reitman,Sci-Fi & Fantasy
+Ivan Reitman,Classic Movies
+Peter Chelsom,International Movies
+Peter Chelsom,Romantic Movies
+Peter Chelsom,Sci-Fi & Fantasy
+Kevin Smith,Comedies
+Kevin Smith,Romantic Movies
+Quentin Tarantino,Classic Movies
+McG,Comedies
+McG,Sci-Fi & Fantasy
+International Movies,Youssef Chahine
+International Movies,Ashutosh Gowariker
+International Movies,Paul Weitz
+International Movies,Brian De Palma
+International Movies,Mike Newell
+International Movies,Nicolás López
+Steven Spielberg,Classic Movies
+Steven Spielberg,Sci-Fi & Fantasy
+Tim Burton,Comedies
+Tim Burton,Sci-Fi & Fantasy
+Youssef Chahine,Classic Movies
+Youssef Chahine,Romantic Movies
+Terry Gilliam,Classic Movies
+Terry Gilliam,Comedies
+Terry Gilliam,Sci-Fi & Fantasy
+Brian De Palma,Classic Movies
+Clint Eastwood,Sci-Fi & Fantasy
+Clint Eastwood,Classic Movies
+Peyton Reed,Comedies
+Peyton Reed,Romantic Movies
+Peyton Reed,Sci-Fi & Fantasy
+Comedies,Ashutosh Gowariker
+Comedies,Paul Weitz
+Comedies,Mike Newell
+Comedies,Nicolás López
+Comedies,Renny Harlin
+Sam Raimi,Sci-Fi & Fantasy
+Sam Raimi,Classic Movies
+Classic Movies,Mike Newell
+Mike Newell,Romantic Movies
+Ashutosh Gowariker,Romantic Movies
+Renny Harlin,Sci-Fi & Fantasy
+Sci-Fi & Fantasy,Paul Weitz
